@@ -1,0 +1,6 @@
+@WellnesHubAPI_HostAddress = http://localhost:5074
+
+GET {{WellnesHubAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
