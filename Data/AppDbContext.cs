@@ -10,4 +10,6 @@ public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(op
     public DbSet<Meal> Meals { get; set; }
     
     public DbSet<MoodEntry> MoodEntries { get; set; }
+    
+    public DbSet<Workout> Workouts { get; set; }
 }
