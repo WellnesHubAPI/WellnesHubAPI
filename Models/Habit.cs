@@ -1,4 +1,4 @@
-namespace WellnesHubAPI.models;
+namespace WellnesHubAPI.Models;
 
 public class Habit
 {

@@ -1,4 +1,4 @@
-namespace WellnessHubAPI.Models;
+namespace WellnesHubAPI.Models;
 
 public class Meal
 {
